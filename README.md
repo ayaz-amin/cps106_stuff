@@ -1,2 +1,1 @@
-# cps106_stuff
-Backup for CPS106 assignments
+# CPS106 Assignments and Labs
